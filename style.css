@@ -1,0 +1,194 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+}
+
+h1{
+    font-size: 300%; 
+}
+.background-image{
+    background-size: 100%;
+    text-align: center;
+    background-image: url(donate-today/images/donation13.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(2, 243, 243);
+    padding-bottom: 150px;
+    padding-top: 10px;
+}
+
+.background-image{
+    font-size: 120%;
+    font-weight: 900;
+}
+a{
+    text-decoration: none;
+    background-color: orange;
+    color: aliceblue;
+    padding: 7px 20px;
+    border-radius: 10px;
+       }
+.nobanner{
+    color: olivedrab;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}    
+
+    
+.flex-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.box-1{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(238, 236, 234);
+    color: rgb(1, 6, 10);
+    text-align: center;
+    line-height: 25px;
+    margin: 10px;
+    padding-bottom: ;
+    
+}
+.box-2{
+    width: 60px;
+    height: 60px;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    line-height: 25px;
+    margin: 10px;
+    
+}
+footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+}
+#id{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#center-align{
+    padding-top: 20px;
+    text-align: center;
+    color: olivedrab;
+    padding-bottom: 50px;
+   
+}
+
+.container{
+    display: flex;
+    font-size: 10;
+    justify-content: center;
+    
+    
+}
+.box-f{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    font-size: 10px;
+    line-height: 30px;
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+    line-height: 20px;
+}
+#f.box-f{
+    background-color: rgb(195, 195, 230);
+}
+#s.box-f{
+    background-color: pink;
+}
+   
+#e.box-f{
+    background-color: blanchedalmond;
+}
+.donate-two{
+    display: flex;
+    
+}
+.half-widht{
+    width: 50%;
+    padding-left: 30px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: rgb(82, 124, 124);
+}
+.half-widht img{
+    width: 100%;
+    padding-left: 30px;
+
+}
+.donate-three{
+    display: flex;
+    
+}
+.half-widht2{
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.half-widht2 img{
+    width: 105%;
+    height: 105%;
+
+}
+.donate-four{
+    text-align: center;
+    padding-bottom: 30px;
+}
+p{
+    text-align: ;
+}
+
+.inputx
+{
+    text-align: center;
+    background-color: rgb(228, 213, 186);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 200px;
+    border-bottom: 200px;
+    border-left: 200px;
+    border-right: 200px;
+    margin-left: 250px;
+    margin-right: 250px; 
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+input[type="submit"]
+{
+    background-color: orange;
+    outline: none;
+    border: none;
+    padding: 3px 7px;
+}
+#end{
+    text-align: center;
+    padding-top: 20px;
+    background-color: black;
+    color: aliceblue;
+
+}
+.end h1{
+    color: orangered;
+    font-size: 35PX;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.end{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
